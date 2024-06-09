@@ -8,6 +8,7 @@ urlpatterns = [
     path("admin/", admin.site.urls),
     path("", views.home, name="home-page"),
     path("news/<int:id>/", views.news_details, name="news-details-page"),
+    path("categories/", views.category_form, name="categories-form"),
 ]
 
 if settings.DEBUG:
