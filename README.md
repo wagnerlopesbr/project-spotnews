@@ -1,10 +1,27 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Spotnews - Project
+
+### English:
+
+#### What did I develop?
+
+An application that stores news articles which can be categorized by registered Users, allowing me to practice practice Django and Django Rest Framework (DRF).
+
+#### Skills tested in the project:
+
+- Create applications using Django and Django Rest Framework (DRF);
+- Model-View-Template (MVT) architecture;
+- Work with SQLite database;
+
+---
+
+### Português:
+
+#### O que desenvolvi?
+
+Uma aplicação que armazena notícias que podem ser categorizadas por um usuário cadastrado de forma que pude praticar Django e Django Rest Framework (DRF).
+
+#### Habilidades testadas no projeto:
+
+- Escrever aplicações usando Django e Django Rest Framework (DRF);
+- Arquitetura Model-View-Template (MVT);
+- Trabalhar com banco de dados SQLite;
