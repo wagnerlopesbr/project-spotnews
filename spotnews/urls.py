@@ -7,7 +7,7 @@ from news import views
 urlpatterns = [
     path("admin/", admin.site.urls),
     path("", views.home, name="home-page"),
-    path("<int:id>/", views.news_details, name="news-details-page"),
+    path("news/<int:id>/", views.news_details, name="news-details-page"),
 ]
 
 if settings.DEBUG:
